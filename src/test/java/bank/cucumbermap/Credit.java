@@ -8,8 +8,7 @@ public class Credit
 	{
 
 		
-		System.out.println("credit works here");
-		
+	
 	}
 
 }
